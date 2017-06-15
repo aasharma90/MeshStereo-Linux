@@ -41,6 +41,15 @@ void jet(float x, int& r, int& g, int& b)
 	b = std::max(0, std::min(255, (int)(round(255 * (1.5 - 4 * fabs(x - .25))))));
 }
 
+void gray(float x, int& gray_val)
+{
+	if (x < 0) x = -0.05;
+	if (x > 1) x = 1.05;
+	x = x / 1.15 + 0.1; 
+	gray_val = std::max(0, std::min(255, (int)(round(255 * x))));
+}
+
+
 /*
 // get min and max (non-INF) values
 void getMinMax(CFloatImage fimg, float& vmin, float& vmax)
@@ -85,6 +94,32 @@ cv::Mat Float2ColorJet(cv::Mat &fimg, float dmin, float dmax)
 			}
 
 			img.at<cv::Vec3b>(y, x) = cv::Vec3b(b, g, r);
+		}
+	}
+
+	return img;
+}
+
+// convert float disparity image into grayscale
+cv::Mat Float2Gray(cv::Mat &fimg, float dmin, float dmax)
+{
+	
+	int width = fimg.cols, height = fimg.rows;
+	cv::Mat img(height, width, CV_8UC1);
+
+	float scale = 1.0 / (dmax - dmin);
+
+	for (int y = 0; y < height; y++) {
+		for (int x = 0; x < width; x++) {
+			float f = fimg.at<float>(y, x);
+			int gray_val = 0;
+
+			if (f != INFINITY) {
+				float val = scale * (f - dmin);
+				gray(val, gray_val);
+			}
+
+			img.at<uchar>(y, x) = gray_val;
 		}
 	}
 
