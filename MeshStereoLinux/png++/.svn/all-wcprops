@@ -1,0 +1,233 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/cvsspcogvis/!svn/ver/7362/trunk/personal/simon/Matlab/stereo/MeshStereo/png++
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cvsspcogvis/!svn/ver/7361/trunk/personal/simon/Matlab/stereo/MeshStereo/png++/COPYING
+END
+streaming_base.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/cvsspcogvis/!svn/ver/7361/trunk/personal/simon/Matlab/stereo/MeshStereo/png++/streaming_base.hpp
+END
+info_base.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cvsspcogvis/!svn/ver/7361/trunk/personal/simon/Matlab/stereo/MeshStereo/png++/info_base.hpp
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cvsspcogvis/!svn/ver/7361/trunk/personal/simon/Matlab/stereo/MeshStereo/png++/NEWS
+END
+tRNS.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cvsspcogvis/!svn/ver/7361/trunk/personal/simon/Matlab/stereo/MeshStereo/png++/tRNS.hpp
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cvsspcogvis/!svn/ver/7361/trunk/personal/simon/Matlab/stereo/MeshStereo/png++/Makefile
+END
+convert_color_space.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cvsspcogvis/!svn/ver/7361/trunk/personal/simon/Matlab/stereo/MeshStereo/png++/convert_color_space.hpp
+END
+palette.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cvsspcogvis/!svn/ver/7361/trunk/personal/simon/Matlab/stereo/MeshStereo/png++/palette.hpp
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cvsspcogvis/!svn/ver/7361/trunk/personal/simon/Matlab/stereo/MeshStereo/png++/ChangeLog
+END
+reader.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cvsspcogvis/!svn/ver/7361/trunk/personal/simon/Matlab/stereo/MeshStereo/png++/reader.hpp
+END
+types.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cvsspcogvis/!svn/ver/7361/trunk/personal/simon/Matlab/stereo/MeshStereo/png++/types.hpp
+END
+config.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cvsspcogvis/!svn/ver/7361/trunk/personal/simon/Matlab/stereo/MeshStereo/png++/config.hpp
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/cvsspcogvis/!svn/ver/7361/trunk/personal/simon/Matlab/stereo/MeshStereo/png++/README
+END
+pixel_traits.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cvsspcogvis/!svn/ver/7361/trunk/personal/simon/Matlab/stereo/MeshStereo/png++/pixel_traits.hpp
+END
+rgb_pixel.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cvsspcogvis/!svn/ver/7361/trunk/personal/simon/Matlab/stereo/MeshStereo/png++/rgb_pixel.hpp
+END
+writer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/cvsspcogvis/!svn/ver/7361/trunk/personal/simon/Matlab/stereo/MeshStereo/png++/writer.hpp
+END
+rgba_pixel.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cvsspcogvis/!svn/ver/7361/trunk/personal/simon/Matlab/stereo/MeshStereo/png++/rgba_pixel.hpp
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cvsspcogvis/!svn/ver/7361/trunk/personal/simon/Matlab/stereo/MeshStereo/png++/TODO
+END
+end_info.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cvsspcogvis/!svn/ver/7361/trunk/personal/simon/Matlab/stereo/MeshStereo/png++/end_info.hpp
+END
+image.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cvsspcogvis/!svn/ver/7361/trunk/personal/simon/Matlab/stereo/MeshStereo/png++/image.hpp
+END
+png.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cvsspcogvis/!svn/ver/7361/trunk/personal/simon/Matlab/stereo/MeshStereo/png++/png.hpp
+END
+require_color_space.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/cvsspcogvis/!svn/ver/7361/trunk/personal/simon/Matlab/stereo/MeshStereo/png++/require_color_space.hpp
+END
+generator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/cvsspcogvis/!svn/ver/7361/trunk/personal/simon/Matlab/stereo/MeshStereo/png++/generator.hpp
+END
+ga_pixel.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cvsspcogvis/!svn/ver/7361/trunk/personal/simon/Matlab/stereo/MeshStereo/png++/ga_pixel.hpp
+END
+packed_pixel.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cvsspcogvis/!svn/ver/7361/trunk/personal/simon/Matlab/stereo/MeshStereo/png++/packed_pixel.hpp
+END
+error.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cvsspcogvis/!svn/ver/7361/trunk/personal/simon/Matlab/stereo/MeshStereo/png++/error.hpp
+END
+info.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cvsspcogvis/!svn/ver/7361/trunk/personal/simon/Matlab/stereo/MeshStereo/png++/info.hpp
+END
+consumer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/cvsspcogvis/!svn/ver/7361/trunk/personal/simon/Matlab/stereo/MeshStereo/png++/consumer.hpp
+END
+image_info.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cvsspcogvis/!svn/ver/7361/trunk/personal/simon/Matlab/stereo/MeshStereo/png++/image_info.hpp
+END
+Doxyfile
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/cvsspcogvis/!svn/ver/7361/trunk/personal/simon/Matlab/stereo/MeshStereo/png++/Doxyfile
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cvsspcogvis/!svn/ver/7361/trunk/personal/simon/Matlab/stereo/MeshStereo/png++/AUTHORS
+END
+io_base.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/cvsspcogvis/!svn/ver/7361/trunk/personal/simon/Matlab/stereo/MeshStereo/png++/io_base.hpp
+END
+gray_pixel.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/cvsspcogvis/!svn/ver/7361/trunk/personal/simon/Matlab/stereo/MeshStereo/png++/gray_pixel.hpp
+END
+index_pixel.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/cvsspcogvis/!svn/ver/7361/trunk/personal/simon/Matlab/stereo/MeshStereo/png++/index_pixel.hpp
+END
+pixel_buffer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/cvsspcogvis/!svn/ver/7361/trunk/personal/simon/Matlab/stereo/MeshStereo/png++/pixel_buffer.hpp
+END
+BUGS
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/cvsspcogvis/!svn/ver/7361/trunk/personal/simon/Matlab/stereo/MeshStereo/png++/BUGS
+END
+color.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/cvsspcogvis/!svn/ver/7361/trunk/personal/simon/Matlab/stereo/MeshStereo/png++/color.hpp
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/cvsspcogvis/!svn/ver/7361/trunk/personal/simon/Matlab/stereo/MeshStereo/png++/INSTALL
+END

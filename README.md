@@ -1,2 +1,0 @@
-# MeshStereo-Linux
-# MeshStereo-Linux
