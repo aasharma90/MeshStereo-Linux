@@ -1105,7 +1105,7 @@ void RunMeshStereo(std::string filePathImageL, std::string filePathImageR, std::
 
 
 	cv::Mat Float2ColorJet(cv::Mat &fimg, float dmin, float dmax);
-	cv::imwrite(filePathOutImage + "float.png", dispWmfL);
+	cv::imwrite(filePathOutImage + "_float.png", dispWmfL);
 	cv::imwrite(filePathOutImage + "_colorjet_dispL.png", Float2ColorJet(dispWmfL, 0, numDisps));
 	cv::Mat segImg = DrawSegmentImage(labelMapL);
 	cv::hconcat(segImg, imL, segImg);
